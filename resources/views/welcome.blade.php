@@ -25,7 +25,7 @@
           <div class = "ml-4 text-lg leading-7 font-semihold"><h1 class="text-gray-900 dark:text-white">Khafillah Akbar</div>
           <div class = "ml-4 text-lg leading-7 font-semihold"><h1 class="text-gray-900 dark:text-white">Ganteng </div>
           <div class = "ml-4 text-lg leading-7 font-semihold"><h1 class="text-gray-900 dark:text-white">Ganteng </div>
-          <div class = "ml-4 text-lg leading-7 font-semihold"><h1 class="text-gray-900 dark:text-white">Ganteng </div>
+          <div class = "ml-4 text-lg leading-7 font-semihold"><h1 class="text-gray-900 dark:text-white">Ganteng Banget </div>
 
         </div>
     </body>
